@@ -1,0 +1,20 @@
+{
+  "name": "發票稅金計算機",
+  "description": "計算稅金、含稅金、為稅金",
+  "manifest_version": 2,
+  "minimum_chrome_version": "23",
+  "version": "1.2",
+  "offline_enabled": true,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "permissions" : [
+    "clipboardWrite"
+  ],
+  "icons": {
+    "16": "assets/icon-128x128.png",
+    "128": "assets/icon-128x128.png"
+  }
+}
