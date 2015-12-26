@@ -1,6 +1,6 @@
 {
   "name": "發票稅金計算機",
-  "description": "計算稅金、含稅金、為稅金",
+  "description": "計算含稅價、未稅價及稅金",
   "manifest_version": 2,
   "minimum_chrome_version": "23",
   "version": "1.2",
