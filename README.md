@@ -6,5 +6,5 @@
 發票稅金計算機，給常開發票的你來計算含稅價、未稅價及稅金，簡易的操作介面讓您秒懂。
      
 ## Screenshot
-![screenshot](assets/screenshot_1.png)
+![screenshot](/tree/master/assets/screenshot_1.png)
 
